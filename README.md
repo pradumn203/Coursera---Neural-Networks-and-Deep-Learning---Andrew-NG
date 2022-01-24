@@ -6,3 +6,4 @@
 
 ## Week 2
 - [Week 2 - Quiz - Neural Network Basics](https://github.com/pradumn203/Coursera---Neural-Networks-and-Deep-Learning---Andrew-NG/blob/main/Week1Quiz.png)
+- [Week 2 - Programming Assignment - Logistic Regression with a Neural Network Mindset](https://github.com/pradumn203/Coursera---Neural-Networks-and-Deep-Learning---Andrew-NG/blob/main/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
