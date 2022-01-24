@@ -3,3 +3,6 @@
 
 ## Week 1
 - [Week 1 - Quiz - Introduction to Deep Learning](https://github.com/pradumn203/Coursera---Neural-Networks-and-Deep-Learning---Andrew-NG/blob/main/Week1Quiz.png)
+
+## Week 2
+- [Week 2 - Quiz - Neural Network Basics](https://github.com/pradumn203/Coursera---Neural-Networks-and-Deep-Learning---Andrew-NG/blob/main/Week1Quiz.png)
