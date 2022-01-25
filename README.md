@@ -14,6 +14,6 @@
 
 ## Week 4
 - [Week 4 - Quiz - Key Concepts on Deep Neural Networks](https://github.com/pradumn203/Coursera---Neural-Networks-and-Deep-Learning---Andrew-NG/blob/main/Week4Quiz.png)
-- [Week 2 - Programming Assignment - Building your Deep Neural Network: Step by Step](https://github.com/pradumn203/Coursera---Neural-Networks-and-Deep-Learning---Andrew-NG/blob/main/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+- [Week 4 - Programming Assignment - Building your Deep Neural Network: Step by Step](https://github.com/pradumn203/Coursera---Neural-Networks-and-Deep-Learning---Andrew-NG/blob/main/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 
 
