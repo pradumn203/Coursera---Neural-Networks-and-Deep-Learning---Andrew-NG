@@ -18,5 +18,10 @@
 - [Week 4 - Programming Assignment - Deep Neural Network Application](https://github.com/pradumn203/Coursera---Neural-Networks-and-Deep-Learning---Andrew-NG/blob/main/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 
+# My Coursera Certificate
+
+<img src = "./Neural Networks and Deep Learning.png">
+
+
 
 
